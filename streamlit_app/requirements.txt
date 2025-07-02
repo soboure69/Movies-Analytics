@@ -1,0 +1,4 @@
+films_sdk_sbre==0.0.2
+pandas==2.3.0
+plotly-express==0.4.1
+streamlit==1.46.1
