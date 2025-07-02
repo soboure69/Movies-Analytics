@@ -13,7 +13,7 @@ col1, col2, col3 = st.columns([1, 4, 1])
 # Colonne gauche : Image
 with col1:
     st.image(
-        "https://raw.github.com/soboure69/Movies-Analytics/blob/main/streamlit_app/Linkedin_profil.png",  # Remplacez par le chemin de votre image
+        "https://raw.githubusercontent.com/soboure69/Movies-Analytics/main/streamlit_app/Linkedin_profil.png",  # Remplacez par le chemin de votre image
         width=80,     # Ajustez la taille si nécessaire
         use_container_width=False,
     )
@@ -46,7 +46,7 @@ st.write(" ")
 # Titre
 st.markdown("# **Phase 1 : Développeur Python & Architecte API**")
 # Afficher l'image séparément
-st.image("https://raw.github.com/soboure69/Movies-Analytics/blob/main/streamlit_app/architecture.png", use_container_width=True)
+st.image("https://raw.githubusercontent.com/soboure69/Movies-Analytics/main/streamlit_app/architecture.png", use_container_width=True)
 
 st.markdown(
         """
@@ -67,7 +67,7 @@ st.write(" ")
 # Titre
 st.markdown("# **Phase 2 : Data Analyst - Exploration et Visualisation**")
 # Afficher l'image séparément
-st.image("https://raw.github.com/soboure69/Movies-Analytics/blob/main/streamlit_app/architecturephase.png", use_container_width=True)
+st.image("https://raw.githubusercontent.com/soboure69/Movies-Analytics/main/streamlit_app/architecturephase.png", use_container_width=True)
 
 st.markdown(
         """
