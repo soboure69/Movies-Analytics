@@ -155,11 +155,11 @@ On peut donc créer une URL `poster_url` très facilement à partir de l’ID IM
 
 Le fichier `get_movie_poster.py` permet de générer le fichier "output/links_enriched.parquet" contenant pour chaque film son lien vers sa page IMDb ainsi que le lien de son image d'affiche.
 
-# Déploiement de l'application sur Streamlit Community Cloud
+## Déploiement de l'application sur Streamlit Community Cloud
 
 ---
 
-# Compétences acquises dans cette phase du projot CinéData
+# Compétences acquises dans cette phase du projet CinéData
  - Data Analytics
    - Requetage API en Python
    - Analyse EDA sur notebook
